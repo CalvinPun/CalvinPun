@@ -1,2 +1,2 @@
 # hey! i'm calvin 👋
-i make things that look good (and works sometimes)
+i like to make things that look good (and hopefully work)
